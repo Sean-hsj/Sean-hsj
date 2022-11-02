@@ -1,7 +1,7 @@
 - 👋 Hi, I’m currently a senior college student major in Mathematics. I enjoy traveling, coding, and problem-solving. 
 I’m also a shutterbug, interested in taking street snaps, portraits, and landscapes.
 
-- As a passionate software developer, I have worked on projects with web-based, full-stack applications, mobile multi-threaded applications for iOS, 
+- 💻 As a passionate software developer, I have worked on projects with web-based, full-stack applications, mobile multi-threaded applications for iOS, 
 and front-end development using React.js.
 
 - I'm currently working on a full stack multi vendor restaurant web application by Django framework. 
