@@ -2,7 +2,11 @@
   <img src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif" width="100"/>
 </div>
 
-https://img.shields.io/badge/LinkedIn-blue
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
 
 - 👋 Hi, I’m a senior college student major in Mathematics. I enjoy traveling, coding, and problem-solving. 
 I’m also a shutterbug, interested in taking street snaps, portraits, and landscapes.
