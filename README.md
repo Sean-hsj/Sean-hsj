@@ -19,7 +19,7 @@
 </div>
 
 
-### :About Me :
+### About Me :
 - 👋 Hi, I’m a senior college student major in Mathematics. I enjoy traveling, coding, and problem-solving. 
 I’m also a shutterbug, interested in taking street snaps, portraits, and landscapes.
 
