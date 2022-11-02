@@ -27,7 +27,7 @@ I’m also a shutterbug, interested in taking street snaps, portraits, and lands
 
 - 🤖 I am working on a full stack multi vendor restaurant web application by Django framework at this time. 
 
-- 📫 I am currently looking for a Software Engineering internship for Spring/Summer 2023. Feel free to connect with me or reach out to me at houshaojie0619@gmail.com.
+- 📫 I am currently looking for a Software Engineering internship for Spring/Summer 2023. Feel free to connect with me or reach out to me at [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shaojie-hou/).
 
 
 
