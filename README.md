@@ -1,9 +1,9 @@
-- 👋 Hi, I’m currently a senior college student major in Mathematics. I enjoy traveling, coding, and problem-solving. 
+- 👋 Hi, I’m a senior college student major in Mathematics. I enjoy traveling, coding, and problem-solving. 
 I’m also a shutterbug, interested in taking street snaps, portraits, and landscapes.
 
-- 💻 As a passionate software developer, I have been working on coding for three years. I have worked on projects with web-based, full-stack applications, mobile multi-threaded applications for iOS, and front-end development using React.js.
+- 💻 As a passionate software developer, I have been working on coding for three years. I have worked on projects including web-based, full-stack applications, mobile multi-threaded applications for iOS, and front-end development using React.js.
 
-- 🤖 I'm currently working on a full stack multi vendor restaurant web application by Django framework. 
+- 🤖 I am working on a full stack multi vendor restaurant web application by Django framework at this time. 
 
 - 📫 I am currently looking for a Software Engineering internship for Spring/Summer 2023. Feel free to connect with me or reach out to me at houshaojie0619@gmail.com.
 
