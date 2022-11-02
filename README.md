@@ -1,18 +1,19 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif" width="100"/>
-</div>
-
-<div id="badges">
+  <div id="badges">
   <a href="https://www.linkedin.com/in/shaojie-hou/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.instagram.com/sean.sjh/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+</div>
+
+
 
 - 👋 Hi, I’m a senior college student major in Mathematics. I enjoy traveling, coding, and problem-solving. 
 I’m also a shutterbug, interested in taking street snaps, portraits, and landscapes.
