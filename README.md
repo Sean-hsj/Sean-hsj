@@ -51,7 +51,8 @@ I’m also a shutterbug, interested in taking street snaps, portraits, and lands
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
 
-
+### :fire: My Stats :
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sean-hsj&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
