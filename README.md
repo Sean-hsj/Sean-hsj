@@ -6,7 +6,7 @@ and front-end development using React.js.
 
 - I'm currently working on a full stack multi vendor restaurant web application by Django framework. 
 
-- 📫 I am currently looking for a Software Engineering internship for Spring 2023. Feel free to connect with me or reach out to me at houshaojie0619@gmail.com.
+- 📫 I am currently looking for a Software Engineering internship for Spring/Summer 2023. Feel free to connect with me or reach out to me at houshaojie0619@gmail.com.
 
 
 
