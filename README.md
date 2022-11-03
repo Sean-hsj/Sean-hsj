@@ -52,7 +52,7 @@ I’m also a shutterbug, interested in taking street snaps, portraits, and lands
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
 
 ### 🛰️: My Stats :
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-hsj&layout=compact&theme=vision-friendly-dark)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-hsj&layout=compact&theme=vision-friendly-dark)]
   
    ![github stats](https://github-readme-stats.vercel.app/api?username=Sean-hsj&show_icons=true&theme=tokyonight)
   
