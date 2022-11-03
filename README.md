@@ -56,9 +56,10 @@ I’m also a shutterbug, interested in taking street snaps, portraits, and lands
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sean-hsj&theme=dark&background=000000)](https://git.io/streak-stats)
   
-  [![Shaojie Hou's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sean-hsj&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-hsj&layout=compact&theme=vision-friendly-dark)]
+  (https://github.com/anuraghazra/github-readme-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-hsj&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Shaojie Hou's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sean-hsj&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
