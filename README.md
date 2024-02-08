@@ -20,7 +20,7 @@
 
 
 ### 📷 About Me :
-- 👋 Hi, My name is Shaojie Hou and I’m a senior college student major in Mathematics. I enjoy traveling, coding, and problem-solving. 
+- 👋 Hi, My name is Sean and I’m a first-year master student major in Computer Engineering. I enjoy traveling, coding, and problem-solving. 
 I’m also a shutterbug, interested in taking street snaps, portraits, and landscapes.
 
 - 💻 As a passionate software developer, I have been working on coding for three years. I have worked on projects including web-based, full-stack applications using Flask and Spring, mobile multi-threaded applications for iOS, and front-end development using React.js.
