@@ -2,7 +2,7 @@
 Hi, I'm Sean.
 Software engineer focused on backend systems, data infrastructure, and platform engineering.
 
-My interests center on building reliable backend services, scalable data systems, and platform tools that support real-world products. Outside of work, I enjoy photography.
+<p>My interests center on building reliable backend services, scalable data systems, and platform tools that support real-world products. Outside of work, I enjoy photography.
 
 <p> <a href="https://www.linkedin.com/in/shaojie-hou/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> </a> <a href="https://www.instagram.com/sean.sjh/"> <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" /> </a> <img src="https://komarev.com/ghpvc/?username=Sean-hsj&style=for-the-badge&color=blue" alt="Profile views" /> </p>
 Focus
