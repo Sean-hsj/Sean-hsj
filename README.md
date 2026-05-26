@@ -1,4 +1,4 @@
-<img align="center" src="https://media.giphy.com/media/TRklv98Fvo0Tu/giphy.gif" width="135" alt="Coding animation" />
+<img align="right" src="https://media.giphy.com/media/TRklv98Fvo0Tu/giphy.gif" width="155" alt="Coding animation" />
 Hi, I'm Sean.
 Software engineer focused on backend systems, data infrastructure, and platform engineering.
 
